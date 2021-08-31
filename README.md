@@ -47,7 +47,7 @@ Atualmente, estou estudando sobre:
 Você pode também, entrar em contato comigo nas seguintes redes:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthia-com-h/)
-<a href = "mailto:cinthiasantos77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cinthiasantos77@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF2D20?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## GitHub Stats
 
