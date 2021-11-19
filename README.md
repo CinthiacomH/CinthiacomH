@@ -51,5 +51,4 @@ Você pode também, entrar em contato comigo nas seguintes redes:
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CinthiacomH&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiacomH&layout=compact&theme=radical)
+
