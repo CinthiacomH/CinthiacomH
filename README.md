@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43696e74686961636f6d48266c61796f75743d74727565267468656d653d7261646963616c](https://user-images.githubusercontent.com/36167507/157328428-d8f913ce-be7c-412c-8a81-abebd6055cc5.svg)-->
+
 
 ## Tecnologias
 
@@ -52,4 +53,4 @@ Você pode também, entrar em contato comigo nas seguintes redes:
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CinthiacomH&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiacomH&layout=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiacomH&layout=compact&langs_count=7&&theme=radical)
